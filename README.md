@@ -91,7 +91,15 @@ tail -f fxserver/run.log
 docker restart qb-mariadb
 ```
 
-## 📁 **Estrutura**
+## �️ Base de Dados (rápido)
+
+1. Inicia a MariaDB com Docker:
+	- cd server-data/db
+	- docker compose up -d
+2. Liga com HeidiSQL: 127.0.0.1:3306 (user qbcore / pass qbcore_pass / db qbcore)
+3. Importa: server-data/sql/all_in_one_pt.sql
+
+## �📁 **Estrutura**
 
 ```
 fivem/

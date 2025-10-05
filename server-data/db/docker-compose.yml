@@ -1,0 +1,17 @@
+version: "3.8"
+services:
+  qb-mariadb:
+    image: mariadb:10.11
+    container_name: qb-mariadb
+    restart: unless-stopped
+    ports:
+      - "3306:3306"
+    environment:
+  MARIADB_ROOT_PASSWORD: fivemrootpass
+  MARIADB_DATABASE: qbcore
+  MARIADB_USER: qbcore
+  MARIADB_PASSWORD: qbcore_pass
+    volumes:
+      - db_data:/var/lib/mysql
+volumes:
+  db_data:
