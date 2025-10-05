@@ -1,0 +1,207 @@
+[38;5;83m[           resources] [0m[0m[32mScanning resources.[0m
+[38;5;83m[           resources] [0m[0m[32mFound 22 resources.[0m
+[38;5;66m[          svadhesive] [0m[0mAuthenticating server license key...
+[38;5;66m[          svadhesive] [0m[0mServer license key authentication succeeded. Welcome!
+[38;5;171m[                 cmd] [0m[0mNo such command se.
+[38;5;171m[                 cmd] [0m[0mNo such command must.
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for oxmysql
+[38;5;140m[   resources:oxmysql] [0m[0m[93mWarning: could not find file `web/build/index.html` (defined in fxmanifest.lua:21)[0m
+[38;5;83m[           resources] [0m[0mStarted resource oxmysql (1 warning)
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for qb-core
+[38;5;83m[           resources] [0m[0mStarted resource qb-core
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for qb-weapons
+[38;5;37m[   script:qb-weapons] [0m[0m[qb-weapons] stub loaded
+[38;5;37m[   script:qb-weapons] [0m[0m[qb-weapons] stub loaded
+[38;5;37m[   script:qb-weapons] [0m[0m[qb-weapons] stub loaded
+[38;5;37m[   script:qb-weapons] [0m[0m[qb-weapons] stub loaded
+[38;5;83m[           resources] [0m[0mStarted resource qb-weapons
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for qb-inventory
+[38;5;83m[           resources] [0m[0mStarted resource qb-inventory
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for qb-phone
+[38;5;161m[    c-scripting-core] [0m[0mFailed to load script @qb-apartments/config.lua.
+[38;5;83m[           resources] [0m[0mStarted resource qb-phone
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for pt-inventory-compat
+[38;5;83m[           resources] [0m[0mStarted resource pt-inventory-compat
+[38;5;171m[                 cmd] [0m[0mNo such command encoded.
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for pt-fisco
+[38;5;83m[           resources] [0m[0mStarted resource pt-fisco
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for pt_core
+[38;5;83m[           resources] [0m[0mStarted resource pt_core
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for pt-jobs
+[38;5;83m[           resources] [0m[0mStarted resource pt-jobs
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for pt-police
+[38;5;83m[           resources] [0m[0mStarted resource pt-police
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for pt-hospital
+[38;5;83m[           resources] [0m[0mStarted resource pt-hospital
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for pt-shops
+[38;5;152m[     script:pt-shops] [0m[0m[pt-shops] config not found at server-data/config/pt_shops.json, using built-in defaults
+[38;5;152m[     script:pt-shops] [0m[0m[pt-shops] config not found at server-data/config/pt_shops.json, using built-in defaults
+[38;5;152m[     script:pt-shops] [0m[0m[pt-shops] pt-shops server initializing
+[38;5;152m[     script:pt-shops] [0m[0m[pt-shops] pt-shops resource started, 1 shops loaded
+[38;5;152m[     script:pt-shops] [0m[0m[pt-shops] buy payload: src= shopId=default item=water count=1 price=1 overrideCitizenId=nil
+[38;5;152m[     script:pt-shops] [0m[0m[pt-shops] Fallback purchase: player= shop=default item=water count=1 price=1 dbUpsert=true
+[38;5;152m[     script:pt-shops] [0m[0m[pt-shops] self-test executed ok=true, logged to /workspaces/fivem/fxserver/resources/smoke_tests/smoke_results.log
+[38;5;83m[           resources] [0m[0mStarted resource pt-shops
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for pt-shops-trigger
+[38;5;152m[     script:pt-shops] [0m[0m[pt-shops] buy payload: src= shopId=default item=water count=1 price=1 overrideCitizenId=SMOKETEST_1
+[38;5;152m[     script:pt-shops] [0m[0m[pt-shops] compat AddItemByCitizenId called: ok=true res=true for citizenid=SMOKETEST_1 item=water x1
+[38;5;152m[     script:pt-shops] [0m[0m[pt-shops] compat add item by citizenid SMOKETEST_1 item=water x1
+[38;5;70m[script:pt-shops-trig] [0m[0m[pt-shops-trigger] fired pt-shops:test_buy, ok=true
+[38;5;83m[           resources] [0m[0mStarted resource pt-shops-trigger
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for pt-npcs
+[38;5;155m[      script:pt-npcs] [0m[0m[pt-npcs] oxmysql detected
+[38;5;155m[      script:pt-npcs] [0m[0m[pt-npcs] pt-npcs server started
+[38;5;155m[      script:pt-npcs] [0m[0m[pt-npcs] pt-npcs resource started
+[38;5;83m[           resources] [0m[0mStarted resource pt-npcs
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for pt-placas
+[38;5;83m[           resources] [0m[0mStarted resource pt-placas
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for pt-multas
+[38;5;83m[           resources] [0m[0mStarted resource pt-multas
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for pt-jobmenu
+[38;5;83m[           resources] [0m[0mStarted resource pt-jobmenu
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for smoke_tests
+[38;5;83m[           resources] [0m[0mStarted resource smoke_tests
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for smoke_check
+[38;5;83m[           resources] [0m[0mStarted resource smoke_check
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for pt-health
+[38;5;83m[           resources] [0m[0mStarted resource pt-health
+[38;5;171m[                 cmd] [0m[0mAccess denied for command quit.
+[38;5;22m[  script:smoke_tests] [0m[0m[smoke_tests] smoke_tests started
+[38;5;22m[  script:smoke_tests] [0m[0m[smoke_tests] triggered pt-shops:selftest
+[38;5;22m[  script:smoke_tests] [0m[0m[smoke_tests] pt-fisco state started
+[38;5;22m[  script:smoke_tests] [0m[0m[smoke_tests] smoke_tests started
+[38;5;22m[  script:smoke_tests] [0m[0m[smoke_tests] triggered pt-shops:selftest
+[38;5;22m[  script:smoke_tests] [0m[0m[smoke_tests] pt-fisco state started
+[38;5;149m[  script:smoke_check] [0m[0m[smoke_check] smoke_check started
+[38;5;149m[  script:smoke_check] [0m[0m[smoke_check] oxmysql state started
+[38;5;149m[  script:smoke_check] [0m[0m[smoke_check] qb-core state started
+[38;5;149m[  script:smoke_check] [0m[0m[smoke_check] pt-fisco state started
+[38;5;149m[  script:smoke_check] [0m[0m[smoke_check] pt-shops state started
+[38;5;149m[  script:smoke_check] [0m[0m[smoke_check] thread started
+[38;5;149m[  script:smoke_check] [0m[0m[smoke_check] waiting up to 15s for MySQL to be ready
+[38;5;149m[  script:smoke_check] [0m[0m[smoke_check] MySQL readiness check complete
+[38;5;149m[  script:smoke_check] [0m[0m[smoke_check] smoke_check finished
+[38;5;149m[  script:smoke_check] [0m[0m[smoke_check] smoke_check started
+[38;5;149m[  script:smoke_check] [0m[0m[smoke_check] oxmysql state started
+[38;5;149m[  script:smoke_check] [0m[0m[smoke_check] qb-core state started
+[38;5;149m[  script:smoke_check] [0m[0m[smoke_check] pt-fisco state started
+[38;5;149m[  script:smoke_check] [0m[0m[smoke_check] pt-shops state started
+[38;5;149m[  script:smoke_check] [0m[0m[smoke_check] thread started
+[38;5;149m[  script:smoke_check] [0m[0m[smoke_check] waiting up to 15s for MySQL to be ready
+[38;5;149m[  script:smoke_check] [0m[0m[smoke_check] MySQL readiness check complete
+[38;5;149m[  script:smoke_check] [0m[0m[smoke_check] smoke_check finished
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] oxmysql disponível, iniciando health checks
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;42m[      script:oxmysql] [0m[0m[36m[10.11.14-MariaDB-ubu2204] [32mDatabase server connection established![97m
+[38;5;73m[ citizen-server-impl] [0m[97m[91m        fff                          
+[38;5;73m[ citizen-server-impl] [0m[91m[91m  cccc ff   xx  xx     rr rr    eee  
+[38;5;73m[ citizen-server-impl] [0m[91m[91mcc     ffff   xx       rrr  r ee   e 
+[38;5;73m[ citizen-server-impl] [0m[91m[91mcc     ff     xx   ... rr     eeeee  
+[38;5;73m[ citizen-server-impl] [0m[91m[91m ccccc ff   xx  xx ... rr      eeeee 
+[38;5;73m[ citizen-server-impl] [0m[91m                                     [0m
+[38;5;73m[ citizen-server-impl] [0m[0m[32mAuthenticated with cfx.re Nucleus: [0mhttps://freixo-dmazky.users.cfx.re/
+[38;5;191m[script:pt-inventory-] [0m[0m[pt-inventory-compat] AddItemByCitizenId via oxmysql (async) citizenid=SMOKETEST_1 item=water x1 id=87
+[38;5;157m[ script:qb-inventory] [0m[0m2 inventories successfully loaded (best-effort)
+[38;5;22m[  script:smoke_tests] [0m[0m[smoke_tests] oxmysql SELECT 1 ok=true
+[38;5;22m[  script:smoke_tests] [0m[0m[smoke_tests] oxmysql SELECT 1 ok=true
+[38;5;73m[ citizen-server-impl] [0m[0m[91m-- [server notice: portal_release][0m
+[38;5;73m[ citizen-server-impl] [0m[0m[32mPATREON SUPPORT ENDING SOON: For existing Patreon subscribers, please migrate to our new subscription platform in https://portal.cfx.re by December 1st 2025 to avoid any service interruptions. Read more: https://aka.cfx.re/patreon-to-portal-migration/ [0m
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;73m[ citizen-server-impl] [0m[0m[91mServer list query returned an error: System.Net.Sockets.SocketException: Connection reset by peer <- System.IO.IOException: Unable to read data from the transport connection: Connection reset by peer. <- System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.[0m
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;73m[ citizen-server-impl] [0m[0m[91mServer list query returned an error: System.Net.Sockets.SocketException: Connection reset by peer <- System.IO.IOException: Unable to read data from the transport connection: Connection reset by peer. <- System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.[0m
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;73m[ citizen-server-impl] [0m[0m[91mServer list query returned an error: System.Net.Sockets.SocketException: Connection reset by peer <- System.IO.IOException: Unable to read data from the transport connection: Connection reset by peer. <- System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.[0m
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;73m[ citizen-server-impl] [0m[0m[91mServer list query returned an error: System.Net.Sockets.SocketException: Connection reset by peer <- System.IO.IOException: Unable to read data from the transport connection: Connection reset by peer. <- System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.[0m
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;73m[ citizen-server-impl] [0m[0m[91mServer list query returned an error: System.Net.Sockets.SocketException: Connection reset by peer <- System.IO.IOException: Unable to read data from the transport connection: Connection reset by peer. <- System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.[0m
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;73m[ citizen-server-impl] [0m[0m[91mServer list query returned an error: System.Net.Sockets.SocketException: Connection reset by peer <- System.IO.IOException: Unable to read data from the transport connection: Connection reset by peer. <- System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.[0m
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;73m[ citizen-server-impl] [0m[0m[91mServer list query returned an error: System.Net.Sockets.SocketException: Connection reset by peer <- System.IO.IOException: Unable to read data from the transport connection: Connection reset by peer. <- System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.[0m
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;73m[ citizen-server-impl] [0m[0m[91mServer list query returned an error: System.Net.Sockets.SocketException: Connection reset by peer <- System.IO.IOException: Unable to read data from the transport connection: Connection reset by peer. <- System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.[0m
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;73m[ citizen-server-impl] [0m[0m[91mServer list query returned an error: System.Net.Sockets.SocketException: Connection reset by peer <- System.IO.IOException: Unable to read data from the transport connection: Connection reset by peer. <- System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.[0m
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;73m[ citizen-server-impl] [0m[0m[91mServer list query returned an error: System.Net.Sockets.SocketException: Connection reset by peer <- System.IO.IOException: Unable to read data from the transport connection: Connection reset by peer. <- System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.[0m
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[38;5;21m[    script:pt-health] [0m[0m[pt-health] DB FALHOU (SELECT 1)
+[0m[91m[91mcc     ff     xx   ... rr     eeeee  
+[38;5;73m[ citizen-server-impl] [0m[91m[91m ccccc ff   xx  xx ... rr      eeeee 
+[38;5;73m[ citizen-server-impl] [0m[91m                                     [0m
+[38;5;73m[ citizen-server-impl] [0m[0m[32mAuthenticated with cfx.re Nucleus: [0mhttps://freixo-dmazky.users.cfx.re/
+[38;5;191m[script:pt-inventory-] [0m[0m[pt-inventory-compat] AddItemByCitizenId via oxmysql (async) citizenid=SMOKETEST_1 item=water x1 id=87
+[38;5;157m[ script:qb-inventory] [0m[0m2 inventories successfully loaded (best-effort)
+[38;5;22m[  script:smoke_tests] [0m[0m[smoke_tests] oxmysql SELECT 1 ok=true
+[38;5;22m[  script:smoke_tests] [0m[0m[smoke_tests] oxmysql SELECT 1 ok=true
+[38;5;73m[ citizen-server-impl] [0m[0m[91m-- [server notice: portal_release][0m
+[38;5;73m[ citizen-server-impl] [0m[0m[32mPATREON SUPPORT ENDING SOON: For existing Patreon subscribers, please migrate to our new subscription platform in https://portal.cfx.re by December 1st 2025 to avoid any service interruptions. Read more: https://aka.cfx.re/patreon-to-portal-migration/ [0m
+License authenticated successfully on attempt 1
+\n--- Final log tail ---
+\nLicense OK — running smoke DB check...
+Tables_in_qbcore
+citizens
+driving_licenses
+fines
+gov_ledger
+inventories
+inventory_items
+items
+players
+shops_npcs
+vehicle_plates
+vehicles

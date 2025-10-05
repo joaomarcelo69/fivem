@@ -1,0 +1,23 @@
+body { margin: 0; font-family: Arial, Helvetica, sans-serif; }
+#app { position: fixed; top: 0; left: 0; right: 0; bottom: 0; pointer-events: none; }
+.window { pointer-events: all; width: 520px; background: rgba(15,15,18,0.92); color: #eee; border-radius: 8px; border: 1px solid #2a2a2a; margin: 40px auto; padding: 14px 16px; box-shadow: 0 8px 30px rgba(0,0,0,0.4); }
+.title { font-size: 18px; font-weight: 700; margin-bottom: 10px; }
+.tabs { display: flex; gap: 8px; margin-bottom: 10px; }
+.tabs button { background: #262a33; color: #ccc; border: 1px solid #3a3f4b; border-radius: 6px; padding: 6px 10px; cursor: pointer; }
+.tabs button.active { background: #3b82f6; color: white; border-color: #3b82f6; }
+.content { background: rgba(0,0,0,0.2); border: 1px solid #2b2b2b; border-radius: 6px; padding: 10px; }
+.form { display: grid; grid-template-columns: 1fr; gap: 6px; }
+.form label { font-size: 12px; color: #bdbdbd; }
+.form input { background: #0e1014; color: #f2f2f2; border: 1px solid #333; border-radius: 4px; padding: 8px; }
+.actions { display: flex; gap: 8px; margin-top: 8px; }
+.actions button { background: #22c55e; border: none; color: #0b1b12; border-radius: 6px; padding: 8px 10px; font-weight: 700; cursor: pointer; }
+.actions button:disabled { background: #2a3a33; color: #777; cursor: not-allowed; }
+.footer { margin-top: 10px; text-align: right; }
+.footer button { background: #ef4444; color: #1b0b0b; border: none; border-radius: 6px; padding: 8px 10px; font-weight: 700; cursor: pointer; }
+
+/* Route HUD */
+.route-hud { position: absolute; right: 24px; bottom: 24px; background: rgba(15,15,18,0.86); color: #eaeaea; border: 1px solid #2a2a2a; border-radius: 10px; padding: 10px 12px; min-width: 200px; pointer-events: none; box-shadow: 0 6px 24px rgba(0,0,0,0.35); }
+.route-hud .chip { font-size: 12px; color: #9fb4ff; letter-spacing: 0.4px; margin-bottom: 6px; }
+.route-hud .money { font-size: 20px; font-weight: 800; color: #22c55e; }
+.route-hud .total { font-size: 13px; color: #c9c9c9; margin-top: 2px; }
+.route-hud .dist { font-size: 12px; color: #a6a6a6; margin-top: 6px; }

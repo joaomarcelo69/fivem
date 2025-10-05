@@ -1,0 +1,29 @@
+tbl	cnt
+players	2
+inventories	COUNT(*)
+inventories	2
+items	COUNT(*)
+items	4
+inventory_items	COUNT(*)
+inventory_items	3
+vehicle_plates	COUNT(*)
+vehicle_plates	9
+vehicles	COUNT(*)
+vehicles	2
+citizens	COUNT(*)
+citizens	3
+fines	COUNT(*)
+fines	2
+id	plate	created_at
+11	SMOKETEST_FALLBACK_9302	2025-09-20 09:44:16
+10	CC-90-12	2025-09-20 09:39:09
+9	BB-56-78	2025-09-20 09:39:09
+8	AA-12-34	2025-09-20 09:39:09
+6	SMOKETEST_FALLBACK_1539	2025-09-20 09:37:49
+4	SMOKETEST_FALLBACK_1565	2025-09-20 09:33:45
+3	TESTPLATE	2025-09-20 09:23:38
+2	SMOKETEST_FALLBACK_1735	2025-09-20 09:23:37
+1	MANUAL_TEST_123	2025-09-20 09:22:48
+id	plate	owner_citizenid	model
+2	BB-56-78	PT1002	Renault Clio
+1	AA-12-34	PT1001	Seat Ibiza

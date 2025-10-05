@@ -4,4 +4,6 @@ dist-resources/
 fxserver/resources_custom/
 fxserver/cache/
 cache/
-*.log
+*.logresources/oxmysql_disabled
+resources/qb-inventory_disabled
+resources/qb-phone_disabled

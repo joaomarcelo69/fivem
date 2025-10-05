@@ -1,0 +1,115 @@
+[38;5;83m[           resources] [0m[0m[32mScanning resources.[0m
+[38;5;83m[           resources] [0m[0m[32mFound 20 resources.[0m
+[38;5;66m[          svadhesive] [0m[0mAuthenticating server license key...
+[38;5;66m[          svadhesive] [0m[0mServer license key authentication succeeded. Welcome!
+[38;5;73m[ citizen-server-impl] [0m[0m[93mCouldn't find resource sessionmanager.[0m
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for oxmysql
+[38;5;140m[   resources:oxmysql] [0m[0m[93mWarning: could not find file `web/build/index.html` (defined in fxmanifest.lua:21)[0m
+[38;5;83m[           resources] [0m[0mStarted resource oxmysql (1 warning)
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for qb-core
+[38;5;83m[           resources] [0m[0mStarted resource qb-core
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for qb-weapons
+[38;5;37m[   script:qb-weapons] [0m[0m[qb-weapons] stub loaded
+[38;5;83m[           resources] [0m[0mStarted resource qb-weapons
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for qb-inventory
+[38;5;157m[ script:qb-inventory] [0m[0mError parsing script @qb-inventory/server/main.lua in resource qb-inventory: @qb-inventory/server/main.lua:19: <eof> expected near 'elseif'
+[38;5;161m[    c-scripting-core] [0m[0mFailed to load script server/main.lua.
+[38;5;157m[ script:qb-inventory] [0m[0m[91mSCRIPT ERROR: @qb-inventory/server/commands.lua:3: attempt to index a nil value (global 'QBCore')[0m
+[38;5;157m[ script:qb-inventory] [0m[0m[93m> fn[0m ([36m@qb-inventory/server/commands.lua[0m:3)
+[38;5;83m[           resources] [0m[0mStarted resource qb-inventory
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for qb-phone
+[38;5;83m[           resources] [0m[0mStarted resource qb-phone
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for pt-inventory-compat
+[38;5;83m[           resources] [0m[0mStarted resource pt-inventory-compat
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for pt_core
+[38;5;83m[           resources] [0m[0mStarted resource pt_core
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for pt-jobs
+[38;5;152m[      script:pt-jobs] [0m[0m[pt-jobs] config not found at server-data/config/pt_jobs.json, using built-in defaults
+[38;5;152m[      script:pt-jobs] [0m[0m[pt-jobs] pt-jobs resource started, 5 jobs loaded
+[38;5;152m[      script:pt-jobs] [0m[0m[pt-jobs] pt-jobs resource started, 5 jobs loaded
+[38;5;83m[           resources] [0m[0mStarted resource pt-jobs
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for pt-police
+[38;5;83m[           resources] [0m[0mStarted resource pt-police
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for pt-hospital
+[38;5;83m[           resources] [0m[0mStarted resource pt-hospital
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for pt-shops
+[38;5;152m[     script:pt-shops] [0m[0m[pt-shops] config not found at server-data/config/pt_shops.json, using built-in defaults
+[38;5;152m[     script:pt-shops] [0m[0m[pt-shops] pt-shops server initializing
+[38;5;152m[     script:pt-shops] [0m[0m[pt-shops] pt-shops resource started, 0 shops loaded
+[38;5;191m[script:pt-inventory-] [0m[0m[pt-inventory-compat] AddItem via exports.oxmysql citizenid=UNKNOWN item=water x1
+[38;5;152m[     script:pt-shops] [0m[0m[pt-shops] compat add item for player  item=water x1
+[38;5;152m[     script:pt-shops] [0m[0m[pt-shops] self-test executed ok=true, logged to /workspaces/fivem/fxserver/resources/smoke_tests/smoke_results.log
+[38;5;83m[           resources] [0m[0mStarted resource pt-shops
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for pt-shops-trigger
+[38;5;191m[script:pt-inventory-] [0m[0m[pt-inventory-compat] AddItem via exports.oxmysql citizenid=UNKNOWN item=water x1
+[38;5;152m[     script:pt-shops] [0m[0m[pt-shops] compat add item for player  item=water x1
+[38;5;70m[script:pt-shops-trig] [0m[0m[pt-shops-trigger] fired pt-shops:test_buy, ok=true
+[38;5;191m[script:pt-inventory-] [0m[0m[pt-inventory-compat] AddItem via exports.oxmysql citizenid=UNKNOWN item=water x1
+[38;5;152m[     script:pt-shops] [0m[0m[pt-shops] compat add item for player  item=water x1
+[38;5;70m[script:pt-shops-trig] [0m[0m[pt-shops-trigger] fired pt-shops:test_buy, ok=true
+[38;5;83m[           resources] [0m[0mStarted resource pt-shops-trigger
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for pt-npcs
+[38;5;155m[      script:pt-npcs] [0m[0m[pt-npcs] oxmysql detected
+[38;5;155m[      script:pt-npcs] [0m[0m[pt-npcs] pt-npcs server started
+[38;5;155m[      script:pt-npcs] [0m[0m[pt-npcs] pt-npcs resource started
+[38;5;83m[           resources] [0m[0mStarted resource pt-npcs
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for smoke_tests
+[38;5;22m[  script:smoke_tests] [0m[0m[smoke_tests] thread created
+[38;5;22m[  script:smoke_tests] [0m[0m[smoke_tests] starting immediate
+[38;5;22m[  script:smoke_tests] [0m[0m[smoke_tests] calling pt_core:server:getDocuments immediate
+[38;5;83m[           resources] [0m[0mStarted resource smoke_tests
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for smoke_check
+[38;5;83m[           resources] [0m[0mStarted resource smoke_check
+[38;5;186m[ citizen-server-main] [0m[0m-> Quitting: Ctrl-C pressed in server console.
+[38;5;171m[                 cmd] [0m[0mAccess denied for command add_ace.
+[38;5;171m[                 cmd] [0m[0mAccess denied for command add_ace.
+[38;5;171m[                 cmd] [0m[0mAccess denied for command add_ace.
+[38;5;149m[  script:smoke_check] [0m[0m[smoke_check] thread started
+[38;5;149m[  script:smoke_check] [0m[0m[smoke_check] waiting up to 60s for MySQL to be ready
+[38;5;149m[  script:smoke_check] [0m[0m[smoke_check] exports.oxmysql present, proceeding without MySQL wrapper
+[38;5;149m[  script:smoke_check] [0m[0m[smoke_check] MySQL readiness check complete, attempting synchronous insert and select
+[38;5;149m[  script:smoke_check] [0m[0m[smoke_check] DEBUG: MySQL object: nil
+[38;5;149m[  script:smoke_check] [0m[0m[smoke_check] DEBUG: MySQL.Sync: nil
+[38;5;149m[  script:smoke_check] [0m[0m[smoke_check] DEBUG: exports.oxmysql: table: 0x73008a2591e0
+[38;5;149m[  script:smoke_check] [0m[0m[smoke_check] MySQL.Sync.insert not available; trying exports.oxmysql fallback
+[38;5;149m[  script:smoke_check] [0m[0m[smoke_check] using exports.oxmysql.insert fallback
+[38;5;149m[  script:smoke_check] [0m[0m[smoke_check] smoke_check finished
+[38;5;42m[      script:oxmysql] [0m[0m[93mUnable to establish a connection to the database (ECONNREFUSED)!
+[38;5;42m[      script:oxmysql] [0m[93m[91mError -111: connect ECONNREFUSED 127.0.0.1:3307[97m
+[38;5;42m[      script:oxmysql] [0m[97mSee https://github.com/overextended/oxmysql/issues/154 for more information.
+[38;5;42m[      script:oxmysql] [0m[97m{
+[38;5;42m[      script:oxmysql] [0m[97m  "connectTimeout": 60000,
+[38;5;42m[      script:oxmysql] [0m[97m  "trace": false,
+[38;5;42m[      script:oxmysql] [0m[97m  "supportBigNumbers": true,
+[38;5;42m[      script:oxmysql] [0m[97m  "jsonStrings": true,
+[38;5;42m[      script:oxmysql] [0m[97m  "user": "root",
+[38;5;42m[      script:oxmysql] [0m[97m  "password": "******",
+[38;5;42m[      script:oxmysql] [0m[97m  "host": "127.0.0.1",
+[38;5;42m[      script:oxmysql] [0m[97m  "port": 3307,
+[38;5;42m[      script:oxmysql] [0m[97m  "database": "qbcore",
+[38;5;42m[      script:oxmysql] [0m[97m  "namedPlaceholders": false,
+[38;5;42m[      script:oxmysql] [0m[97m  "flags": [
+[38;5;42m[      script:oxmysql] [0m[97m    "CONNECT_WITH_DB"
+[38;5;42m[      script:oxmysql] [0m[97m  ]
+[38;5;42m[      script:oxmysql] [0m[97m}
+[38;5;73m[ citizen-server-impl] [0m[97mserver thread hitch warning: timer interval of 240 milliseconds
+[38;5;22m[  script:smoke_tests] [0m[97m[smoke_tests] pt_core:getDocuments failed immediate (ok=true)
+[38;5;22m[  script:smoke_tests] [0m[97m[smoke_tests] attempting plate insertion immediate plate=SMOKETEST_1758486985_7877
+[38;5;22m[  script:smoke_tests] [0m[97m[smoke_tests] used oxmysql.insert immediate res=nil
+[38;5;22m[  script:smoke_tests] [0m[97m[smoke_tests] plate insertion attempted immediate
+[38;5;22m[  script:smoke_tests] [0m[97m[smoke_tests] finished immediate
+[38;5;22m[  script:smoke_tests] [0m[97m[smoke_tests] starting shop-buy test
+[38;5;152m[     script:pt-shops] [0m[97m[pt-shops] shop not found: default
+[38;5;22m[  script:smoke_tests] [0m[97m[smoke_tests] pt-shops:test_buy attempt 1 succeeded
+[38;5;22m[  script:smoke_tests] [0m[97m[smoke_tests] pt-shops:buy executed OK
+[38;5;22m[  script:smoke_tests] [0m[97m[smoke_tests] inventory_items count(SMOKETEST_1, water)=nil
+[38;5;22m[  script:smoke_tests] [0m[97m[smoke_tests] finished shop-buy test
+[38;5;73m[ citizen-server-impl] [0m[97m[91m        fff                          
+[38;5;73m[ citizen-server-impl] [0m[91m[91m  cccc ff   xx  xx     rr rr    eee  
+[38;5;73m[ citizen-server-impl] [0m[91m[91mcc     ffff   xx       rrr  r ee   e 
+[38;5;73m[ citizen-server-impl] [0m[91m[91mcc     ff     xx   ... rr     eeeee  
+[38;5;73m[ citizen-server-impl] [0m[91m[91m ccccc ff   xx  xx ... rr      eeeee 
+[38;5;73m[ citizen-server-impl] [0m[91m                                     [0m
+[38;5;73m[ citizen-server-impl] [0m[0m[32mAuthenticated with cfx.re Nucleus: [0mhttps://freixo-dmazky.users.cfx.re/
+[38;5;73m[ citizen-server-impl] [0m[0m[91m-- [server notice: portal_release][0m
+[38;5;73m[ citizen-server-impl] [0m[0m[32mPATREON SUPPORT ENDING SOON: For existing Patreon subscribers, please migrate to our new subscription platform in https://portal.cfx.re by December 1st 2025 to avoid any service interruptions. Read more: https://aka.cfx.re/patreon-to-portal-migration/ [0m

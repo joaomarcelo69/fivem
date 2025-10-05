@@ -1,0 +1,138 @@
+2025-09-28 00:00:28 - smoke_tests started
+2025-09-28 00:00:28 - triggered pt-shops:selftest
+2025-09-28 00:00:28 - pt-fisco state started
+2025-09-28 00:00:28 - smoke_tests started
+2025-09-28 00:00:28 - triggered pt-shops:selftest
+2025-09-28 00:00:28 - pt-fisco state started
+2025-09-28 00:00:28 - oxmysql SELECT 1 ok=true
+2025-09-28 00:00:28 - oxmysql SELECT 1 ok=true
+2025-09-28 22:48:34 - smoke_tests started
+2025-09-28 22:48:34 - triggered pt-shops:selftest
+2025-09-28 22:48:34 - pt-fisco state started
+2025-09-28 22:48:34 - smoke_tests started
+2025-09-28 22:48:34 - triggered pt-shops:selftest
+2025-09-28 22:48:34 - pt-fisco state started
+2025-09-28 22:50:52 - smoke_tests started
+2025-09-28 22:50:52 - triggered pt-shops:selftest
+2025-09-28 22:50:52 - pt-fisco state started
+2025-09-28 22:50:52 - smoke_tests started
+2025-09-28 22:50:52 - triggered pt-shops:selftest
+2025-09-28 22:50:52 - pt-fisco state started
+2025-09-28 22:56:01 - smoke_tests started
+2025-09-28 22:56:01 - triggered pt-shops:selftest
+2025-09-28 22:56:01 - pt-fisco state started
+2025-09-28 22:56:01 - smoke_tests started
+2025-09-28 22:56:01 - triggered pt-shops:selftest
+2025-09-28 22:56:01 - pt-fisco state started
+2025-09-28 23:01:48 - smoke_tests started
+2025-09-28 23:01:48 - triggered pt-shops:selftest
+2025-09-28 23:01:48 - pt-fisco state started
+2025-09-28 23:01:48 - smoke_tests started
+2025-09-28 23:01:48 - triggered pt-shops:selftest
+2025-09-28 23:01:48 - pt-fisco state started
+2025-09-28 23:01:48 - oxmysql SELECT 1 ok=true
+2025-09-28 23:01:48 - oxmysql SELECT 1 ok=true
+2025-10-03 15:03:04 - smoke_tests started
+2025-10-03 15:03:04 - triggered pt-shops:selftest
+2025-10-03 15:03:04 - pt-fisco state started
+2025-10-03 15:03:04 - smoke_tests started
+2025-10-03 15:03:04 - triggered pt-shops:selftest
+2025-10-03 15:03:04 - pt-fisco state started
+2025-10-03 16:08:46 - smoke_tests started
+2025-10-03 16:08:46 - triggered pt-shops:selftest
+2025-10-03 16:08:46 - pt-fisco state started
+2025-10-03 16:08:46 - smoke_tests started
+2025-10-03 16:08:46 - triggered pt-shops:selftest
+2025-10-03 16:08:46 - pt-fisco state started
+2025-10-04 17:34:36 - smoke_tests started
+2025-10-04 17:34:36 - smoke_tests started
+2025-10-04 17:38:16 - smoke_tests started
+2025-10-04 17:38:16 - smoke_tests started
+2025-10-04 20:26:26 - smoke_tests started
+2025-10-04 20:26:26 - smoke_tests started
+2025-10-04 23:58:37 - smoke_tests started
+2025-10-04 23:58:37 - smoke_tests started
+2025-10-05 00:28:02 - smoke_tests started
+2025-10-05 00:28:02 - smoke_tests started
+2025-10-05 00:30:28 - smoke_tests started
+2025-10-05 00:30:28 - smoke_tests started
+2025-10-05 00:39:42 - smoke_tests started
+2025-10-05 00:39:42 - smoke_tests started
+2025-10-05 01:19:05 - smoke_tests started
+2025-10-05 01:19:05 - triggered pt-shops:selftest
+2025-10-05 01:19:05 - pt-fisco state started
+2025-10-05 01:19:05 - smoke_tests started
+2025-10-05 01:19:05 - triggered pt-shops:selftest
+2025-10-05 01:19:05 - pt-fisco state started
+2025-10-05 01:19:05 - oxmysql SELECT 1 ok=true
+2025-10-05 01:19:05 - oxmysql SELECT 1 ok=true
+2025-10-05 01:28:16 - smoke_tests started
+2025-10-05 01:28:16 - triggered pt-shops:selftest
+2025-10-05 01:28:16 - pt-fisco state started
+2025-10-05 01:28:16 - smoke_tests started
+2025-10-05 01:28:16 - triggered pt-shops:selftest
+2025-10-05 01:28:16 - pt-fisco state started
+2025-10-05 01:28:17 - oxmysql SELECT 1 ok=true
+2025-10-05 01:28:17 - oxmysql SELECT 1 ok=true
+2025-10-05 01:46:14 - smoke_tests started
+2025-10-05 01:46:14 - triggered pt-shops:selftest
+2025-10-05 01:46:14 - pt-fisco state started
+2025-10-05 01:46:14 - smoke_tests started
+2025-10-05 01:46:14 - triggered pt-shops:selftest
+2025-10-05 01:46:14 - pt-fisco state started
+2025-10-05 01:46:15 - oxmysql SELECT 1 ok=true
+2025-10-05 01:46:15 - oxmysql SELECT 1 ok=true
+2025-10-05 01:56:06 - smoke_tests started
+2025-10-05 01:56:06 - triggered pt-shops:selftest
+2025-10-05 01:56:06 - pt-fisco state started
+2025-10-05 01:56:06 - smoke_tests started
+2025-10-05 01:56:06 - triggered pt-shops:selftest
+2025-10-05 01:56:06 - pt-fisco state started
+2025-10-05 01:56:06 - oxmysql SELECT 1 ok=true
+2025-10-05 01:56:06 - oxmysql SELECT 1 ok=true
+2025-10-05 02:02:25 - smoke_tests started
+2025-10-05 02:02:25 - triggered pt-shops:selftest
+2025-10-05 02:02:25 - pt-fisco state started
+2025-10-05 02:02:25 - smoke_tests started
+2025-10-05 02:02:25 - triggered pt-shops:selftest
+2025-10-05 02:02:25 - pt-fisco state started
+2025-10-05 02:02:26 - oxmysql SELECT 1 ok=true
+2025-10-05 02:02:26 - oxmysql SELECT 1 ok=true
+2025-10-05 08:32:26 - smoke_tests started
+2025-10-05 08:32:26 - triggered pt-shops:selftest
+2025-10-05 08:32:26 - pt-fisco state started
+2025-10-05 08:32:26 - smoke_tests started
+2025-10-05 08:32:26 - triggered pt-shops:selftest
+2025-10-05 08:32:26 - pt-fisco state started
+2025-10-05 10:04:05 - smoke_tests started
+2025-10-05 10:04:05 - triggered pt-shops:selftest
+2025-10-05 10:04:05 - pt-fisco state started
+2025-10-05 10:04:05 - smoke_tests started
+2025-10-05 10:04:05 - triggered pt-shops:selftest
+2025-10-05 10:04:05 - pt-fisco state started
+2025-10-05 11:04:07 - oxmysql SELECT 1 ok=true
+2025-10-05 11:04:07 - oxmysql SELECT 1 ok=true
+2025-10-05 11:05:37 - smoke_tests started
+2025-10-05 11:05:37 - triggered pt-shops:selftest
+2025-10-05 11:05:37 - pt-fisco state started
+2025-10-05 11:05:37 - smoke_tests started
+2025-10-05 11:05:37 - triggered pt-shops:selftest
+2025-10-05 11:05:37 - pt-fisco state started
+2025-10-05 11:05:37 - oxmysql SELECT 1 ok=true
+2025-10-05 11:05:37 - oxmysql SELECT 1 ok=true
+2025-10-05 11:12:19 - smoke_tests started
+2025-10-05 11:12:19 - triggered pt-shops:selftest
+2025-10-05 11:12:19 - pt-fisco state started
+2025-10-05 11:12:19 - smoke_tests started
+2025-10-05 11:12:19 - triggered pt-shops:selftest
+2025-10-05 11:12:19 - pt-fisco state started
+2025-10-05 11:12:19 - oxmysql SELECT 1 ok=true
+2025-10-05 11:12:19 - oxmysql SELECT 1 ok=true
+2025-10-05 11:49:06 - smoke_tests started
+2025-10-05 11:49:06 - triggered pt-shops:selftest
+2025-10-05 11:49:06 - pt-fisco state started
+2025-10-05 11:49:06 - smoke_tests started
+2025-10-05 11:49:06 - triggered pt-shops:selftest
+2025-10-05 11:49:06 - pt-fisco state started
+2025-10-05 11:49:06 - oxmysql SELECT 1 ok=true
+2025-10-05 11:49:06 - oxmysql SELECT 1 ok=true

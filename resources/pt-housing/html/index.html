@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="pt">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Gestão de Habitação</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="app">
+    <div v-if="!loaded" class="loading">A carregar...</div>
+    <div v-else class="panel">
+      <h2>Minhas Propriedades</h2>
+      <div v-if="props.length === 0">Nenhuma propriedade encontrada.</div>
+      <div v-for="p in props" :key="p.id" class="property">
+        <div class="title">{{ p.label }} <span v-if="p.owner === me">(Proprietário)</span><span v-else-if="p.tenants[me]">(Inquilino)</span></div>
+        <div class="info">Preço base: {{ p.price }}€ | Estado: <span v-if="p.listed">{{ p.listed.type }} {{ p.listed.price }}€</span><span v-else>—</span></div>
+        <div class="actions">
+          <button v-if="p.owner === me && !p.listed" @click="listSale(p.id)">Listar para venda</button>
+          <button v-if="p.owner === me && !p.listed" @click="listRent(p.id)">Listar para arrendar</button>
+          <button v-if="p.owner === me && p.listed" @click="unlist(p.id)">Cancelar listagem</button>
+          <button v-if="p.listed && p.listed.type === 'sale' && p.owner !== me" @click="buy(p.id)">Comprar</button>
+          <button v-if="p.listed && p.listed.type === 'rent' && !p.tenants[me]" @click="rent(p.id)">Arrendar</button>
+          <button v-if="p.tenants[me]" @click="renewRent(p.id)">Renovar arrendamento</button>
+          <button v-if="p.owner === me" @click="withdraw(p.id)">Levantar receitas ({{ p.pendingIncome }}€)</button>
+          <button v-if="p.owner === me" @click="transfer(p.id)">Transferir</button>
+          <button v-if="p.owner === me" @click="giveKeys(p.id)">Dar chaves</button>
+          <button v-if="p.owner === me" @click="revokeKeys(p.id)">Revogar chaves</button>
+          <button v-if="p.owner === me" @click="evict(p.id)">Despejar inquilino</button>
+        </div>
+      </div>
+      <div class="footer"><button @click="close">Fechar</button></div>
+    </div>
+    <!-- Modais para ações complexas -->
+    <div v-if="modal" class="modal">
+      <div class="modal-box">
+        <div class="modal-title">{{ modalTitle }}</div>
+        <div class="modal-content">
+          <input v-if="modalInput" v-model="modalValue" :placeholder="modalPlaceholder" />
+        </div>
+        <div class="modal-actions">
+          <button @click="modalConfirm">Confirmar</button>
+          <button @click="modalCancel">Cancelar</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/vue@2.7.16/dist/vue.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

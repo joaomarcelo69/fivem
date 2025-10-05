@@ -1,0 +1,25 @@
+nohup: ignoring input
+[    c-server-monitor]   _______  ______                           
+[    c-server-monitor]  |  ___\ \/ / ___|  ___ _ ____   _____ _ __ 
+[    c-server-monitor]  | |_   \  /\___ \ / _ \ '__\ \ / / _ \ '__|
+[    c-server-monitor]  |  _|  /  \ ___) |  __/ |   \ V /  __/ |   
+[    c-server-monitor]  |_|   /_/\_\____/ \___|_|    \_/ \___|_|   
+[    c-server-monitor] -------------------------------- txAdmin ---
+[    c-server-monitor] 
+[    c-scripting-core] Creating script environments for monitor
+]0;txAdmin v8.0.1[11:45:14][tx] Starting txAdmin v8.0.1/b19826/Lin...
+[11:45:14][tx] 
+[11:45:14][tx]    ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+[11:45:14][tx]    ┃                                    ┃
+[11:45:14][tx]    ┃     All ready! Please access:      ┃
+[11:45:14][tx]    ┃    http://your-public-ip:40120/    ┃
+[11:45:14][tx]    ┃    http://4.210.177.136:40120/     ┃
+[11:45:14][tx]    ┃                                    ┃
+[11:45:14][tx]    ┃   Use the PIN below to register:   ┃
+[11:45:14][tx]    ┃                8822                ┃
+[11:45:14][tx]    ┃                                    ┃
+[11:45:14][tx]    ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+[11:45:14][tx] 
+[11:45:14][tx] To be able to access txAdmin from the internet open port 40120
+[11:45:14][tx] on your OS Firewall as well as in the hosting company.
+[11:45:14][tx:FxRunner] Please open txAdmin on the browser to configure your server.

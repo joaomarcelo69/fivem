@@ -1,0 +1,10 @@
+body{margin:0;padding:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,sans-serif}
+.valet{position:fixed;inset:0;background:rgba(0,0,0,.35);display:flex;align-items:center;justify-content:center}
+.valet.hidden{display:none}
+.panel{background:#111;border:1px solid #333;border-radius:10px;padding:18px 16px;min-width:280px;box-shadow:0 10px 30px rgba(0,0,0,.5)}
+.title{color:#fff;font-weight:600;font-size:16px;margin-bottom:6px}
+.subtitle{color:#bbb;font-size:13px;margin-bottom:16px}
+.actions{display:flex;gap:10px}
+button{background:#2ecc71;border:none;color:#fff;border-radius:6px;padding:8px 12px;font-weight:600;cursor:pointer}
+button.ghost{background:#444}
+button:hover{filter:brightness(1.05)}

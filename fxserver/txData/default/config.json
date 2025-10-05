@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "setupWizard": {
+    "completed": true
+  },
+  "verbose": false,
+  "serverProfile": {
+    "name": "RP Portugal QBCore",
+    "logFile": "server.log"
+  },
+  "fxserver": {
+    "logFile": "server.log", 
+    "serverDataDir": "/workspaces/fivem/server-data",
+    "cfgFile": "/workspaces/fivem/server-data/server.cfg",
+    "onesync": true,
+    "autostart": true,
+    "restarter": {
+      "failures": 3,
+      "delay": 1
+    }
+  },
+  "logger": {
+    "consoleVerbosity": 2,
+    "fxserverVerbosity": 1
+  },
+  "monitor": {
+    "restarter": {
+      "failures": 10,
+      "delay": 10000
+    },
+    "timeout": 60000,
+    "cooldown": 30000
+  },
+  "webServer": {
+    "port": 40120,
+    "bufferTime": 1500,
+    "limiterMinutes": 15,
+    "limiterAttempts": 10
+  },
+  "discordBot": {
+    "enabled": false
+  },
+  "adminACE": {
+    "enabled": true,
+    "list": []
+  }
+}

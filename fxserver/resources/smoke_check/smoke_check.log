@@ -1,0 +1,432 @@
+2025-09-28 00:00:28 - smoke_check started
+2025-09-28 00:00:28 - oxmysql state started
+2025-09-28 00:00:28 - qb-core state started
+2025-09-28 00:00:28 - pt-fisco state started
+2025-09-28 00:00:28 - pt-shops state started
+2025-09-28 00:00:28 - thread started
+2025-09-28 00:00:28 - waiting up to 15s for MySQL to be ready
+2025-09-28 00:00:28 - MySQL readiness check complete
+2025-09-28 00:00:28 - smoke_check finished
+2025-09-28 00:00:28 - smoke_check started
+2025-09-28 00:00:28 - oxmysql state started
+2025-09-28 00:00:28 - qb-core state started
+2025-09-28 00:00:28 - pt-fisco state started
+2025-09-28 00:00:28 - pt-shops state started
+2025-09-28 00:00:28 - thread started
+2025-09-28 00:00:28 - waiting up to 15s for MySQL to be ready
+2025-09-28 00:00:28 - MySQL readiness check complete
+2025-09-28 00:00:28 - smoke_check finished
+2025-09-28 22:48:34 - smoke_check started
+2025-09-28 22:48:34 - oxmysql state started
+2025-09-28 22:48:34 - qb-core state started
+2025-09-28 22:48:34 - pt-fisco state started
+2025-09-28 22:48:34 - pt-shops state started
+2025-09-28 22:48:34 - thread started
+2025-09-28 22:48:34 - waiting up to 15s for MySQL to be ready
+2025-09-28 22:48:34 - MySQL readiness check complete
+2025-09-28 22:48:34 - smoke_check finished
+2025-09-28 22:48:34 - smoke_check started
+2025-09-28 22:48:34 - oxmysql state started
+2025-09-28 22:48:34 - qb-core state started
+2025-09-28 22:48:34 - pt-fisco state started
+2025-09-28 22:48:34 - pt-shops state started
+2025-09-28 22:48:34 - thread started
+2025-09-28 22:48:34 - waiting up to 15s for MySQL to be ready
+2025-09-28 22:48:34 - MySQL readiness check complete
+2025-09-28 22:48:34 - smoke_check finished
+2025-09-28 22:50:52 - smoke_check started
+2025-09-28 22:50:52 - oxmysql state started
+2025-09-28 22:50:52 - qb-core state started
+2025-09-28 22:50:52 - pt-fisco state started
+2025-09-28 22:50:52 - pt-shops state started
+2025-09-28 22:50:52 - thread started
+2025-09-28 22:50:52 - waiting up to 15s for MySQL to be ready
+2025-09-28 22:50:52 - MySQL readiness check complete
+2025-09-28 22:50:52 - smoke_check finished
+2025-09-28 22:50:52 - smoke_check started
+2025-09-28 22:50:52 - oxmysql state started
+2025-09-28 22:50:52 - qb-core state started
+2025-09-28 22:50:52 - pt-fisco state started
+2025-09-28 22:50:52 - pt-shops state started
+2025-09-28 22:50:52 - thread started
+2025-09-28 22:50:52 - waiting up to 15s for MySQL to be ready
+2025-09-28 22:50:52 - MySQL readiness check complete
+2025-09-28 22:50:52 - smoke_check finished
+2025-09-28 22:56:01 - smoke_check started
+2025-09-28 22:56:01 - oxmysql state started
+2025-09-28 22:56:01 - qb-core state started
+2025-09-28 22:56:01 - pt-fisco state started
+2025-09-28 22:56:01 - pt-shops state started
+2025-09-28 22:56:01 - thread started
+2025-09-28 22:56:01 - waiting up to 15s for MySQL to be ready
+2025-09-28 22:56:01 - MySQL readiness check complete
+2025-09-28 22:56:01 - smoke_check finished
+2025-09-28 22:56:01 - smoke_check started
+2025-09-28 22:56:01 - oxmysql state started
+2025-09-28 22:56:01 - qb-core state started
+2025-09-28 22:56:01 - pt-fisco state started
+2025-09-28 22:56:01 - pt-shops state started
+2025-09-28 22:56:01 - thread started
+2025-09-28 22:56:01 - waiting up to 15s for MySQL to be ready
+2025-09-28 22:56:01 - MySQL readiness check complete
+2025-09-28 22:56:01 - smoke_check finished
+2025-09-28 23:01:48 - smoke_check started
+2025-09-28 23:01:48 - oxmysql state started
+2025-09-28 23:01:48 - qb-core state started
+2025-09-28 23:01:48 - pt-fisco state started
+2025-09-28 23:01:48 - pt-shops state started
+2025-09-28 23:01:48 - thread started
+2025-09-28 23:01:48 - waiting up to 15s for MySQL to be ready
+2025-09-28 23:01:48 - MySQL readiness check complete
+2025-09-28 23:01:48 - smoke_check finished
+2025-09-28 23:01:48 - smoke_check started
+2025-09-28 23:01:48 - oxmysql state started
+2025-09-28 23:01:48 - qb-core state started
+2025-09-28 23:01:48 - pt-fisco state started
+2025-09-28 23:01:48 - pt-shops state started
+2025-09-28 23:01:48 - thread started
+2025-09-28 23:01:48 - waiting up to 15s for MySQL to be ready
+2025-09-28 23:01:48 - MySQL readiness check complete
+2025-09-28 23:01:48 - smoke_check finished
+2025-10-03 15:03:04 - smoke_check started
+2025-10-03 15:03:04 - oxmysql state started
+2025-10-03 15:03:04 - qb-core state started
+2025-10-03 15:03:04 - pt-fisco state started
+2025-10-03 15:03:04 - pt-shops state started
+2025-10-03 15:03:04 - thread started
+2025-10-03 15:03:04 - waiting up to 15s for MySQL to be ready
+2025-10-03 15:03:04 - MySQL readiness check complete
+2025-10-03 15:03:04 - smoke_check finished
+2025-10-03 15:03:04 - smoke_check started
+2025-10-03 15:03:04 - oxmysql state started
+2025-10-03 15:03:04 - qb-core state started
+2025-10-03 15:03:04 - pt-fisco state started
+2025-10-03 15:03:04 - pt-shops state started
+2025-10-03 15:03:04 - thread started
+2025-10-03 15:03:04 - waiting up to 15s for MySQL to be ready
+2025-10-03 15:03:04 - MySQL readiness check complete
+2025-10-03 15:03:04 - smoke_check finished
+2025-10-03 16:08:46 - smoke_check started
+2025-10-03 16:08:46 - oxmysql state started
+2025-10-03 16:08:46 - qb-core state started
+2025-10-03 16:08:46 - pt-fisco state started
+2025-10-03 16:08:46 - pt-shops state started
+2025-10-03 16:08:46 - thread started
+2025-10-03 16:08:46 - waiting up to 15s for MySQL to be ready
+2025-10-03 16:08:46 - MySQL readiness check complete
+2025-10-03 16:08:46 - smoke_check finished
+2025-10-03 16:08:46 - smoke_check started
+2025-10-03 16:08:46 - oxmysql state started
+2025-10-03 16:08:46 - qb-core state started
+2025-10-03 16:08:46 - pt-fisco state started
+2025-10-03 16:08:46 - pt-shops state started
+2025-10-03 16:08:46 - thread started
+2025-10-03 16:08:46 - waiting up to 15s for MySQL to be ready
+2025-10-03 16:08:46 - MySQL readiness check complete
+2025-10-03 16:08:46 - smoke_check finished
+2025-10-04 17:34:36 - smoke_check started
+2025-10-04 17:34:36 - oxmysql state started
+2025-10-04 17:34:36 - qb-core state started
+2025-10-04 17:34:36 - pt-fisco state started
+2025-10-04 17:34:36 - pt-shops state started
+2025-10-04 17:34:36 - thread started
+2025-10-04 17:34:36 - waiting up to 15s for MySQL to be ready
+2025-10-04 17:34:36 - MySQL readiness check complete
+2025-10-04 17:34:36 - smoke_check finished
+2025-10-04 17:34:36 - smoke_check started
+2025-10-04 17:34:36 - oxmysql state started
+2025-10-04 17:34:36 - qb-core state started
+2025-10-04 17:34:36 - pt-fisco state started
+2025-10-04 17:34:36 - pt-shops state started
+2025-10-04 17:34:36 - thread started
+2025-10-04 17:34:36 - waiting up to 15s for MySQL to be ready
+2025-10-04 17:34:36 - MySQL readiness check complete
+2025-10-04 17:34:36 - smoke_check finished
+2025-10-04 17:38:16 - smoke_check started
+2025-10-04 17:38:16 - oxmysql state started
+2025-10-04 17:38:16 - qb-core state started
+2025-10-04 17:38:16 - pt-fisco state started
+2025-10-04 17:38:16 - pt-shops state started
+2025-10-04 17:38:16 - thread started
+2025-10-04 17:38:16 - waiting up to 15s for MySQL to be ready
+2025-10-04 17:38:16 - MySQL readiness check complete
+2025-10-04 17:38:16 - smoke_check finished
+2025-10-04 17:38:16 - smoke_check started
+2025-10-04 17:38:16 - oxmysql state started
+2025-10-04 17:38:16 - qb-core state started
+2025-10-04 17:38:16 - pt-fisco state started
+2025-10-04 17:38:16 - pt-shops state started
+2025-10-04 17:38:16 - thread started
+2025-10-04 17:38:16 - waiting up to 15s for MySQL to be ready
+2025-10-04 17:38:16 - MySQL readiness check complete
+2025-10-04 17:38:16 - smoke_check finished
+2025-10-04 20:26:26 - smoke_check started
+2025-10-04 20:26:26 - oxmysql state started
+2025-10-04 20:26:26 - qb-core state started
+2025-10-04 20:26:26 - pt-fisco state started
+2025-10-04 20:26:26 - pt-shops state started
+2025-10-04 20:26:26 - thread started
+2025-10-04 20:26:26 - waiting up to 15s for MySQL to be ready
+2025-10-04 20:26:26 - MySQL readiness check complete
+2025-10-04 20:26:26 - smoke_check finished
+2025-10-04 20:26:26 - smoke_check started
+2025-10-04 20:26:26 - oxmysql state started
+2025-10-04 20:26:26 - qb-core state started
+2025-10-04 20:26:26 - pt-fisco state started
+2025-10-04 20:26:26 - pt-shops state started
+2025-10-04 20:26:26 - thread started
+2025-10-04 20:26:26 - waiting up to 15s for MySQL to be ready
+2025-10-04 20:26:26 - MySQL readiness check complete
+2025-10-04 20:26:26 - smoke_check finished
+2025-10-04 23:58:37 - smoke_check started
+2025-10-04 23:58:37 - oxmysql state started
+2025-10-04 23:58:37 - qb-core state missing
+2025-10-04 23:58:37 - pt-fisco state started
+2025-10-04 23:58:37 - pt-shops state started
+2025-10-04 23:58:37 - thread started
+2025-10-04 23:58:37 - waiting up to 15s for MySQL to be ready
+2025-10-04 23:58:37 - MySQL readiness check complete
+2025-10-04 23:58:37 - smoke_check finished
+2025-10-04 23:58:37 - smoke_check started
+2025-10-04 23:58:37 - oxmysql state started
+2025-10-04 23:58:37 - qb-core state missing
+2025-10-04 23:58:37 - pt-fisco state started
+2025-10-04 23:58:37 - pt-shops state started
+2025-10-04 23:58:37 - thread started
+2025-10-04 23:58:37 - waiting up to 15s for MySQL to be ready
+2025-10-04 23:58:37 - MySQL readiness check complete
+2025-10-04 23:58:37 - smoke_check finished
+2025-10-05 00:28:02 - smoke_check started
+2025-10-05 00:28:02 - oxmysql state started
+2025-10-05 00:28:02 - qb-core state missing
+2025-10-05 00:28:02 - pt-fisco state started
+2025-10-05 00:28:02 - pt-shops state started
+2025-10-05 00:28:02 - thread started
+2025-10-05 00:28:02 - waiting up to 15s for MySQL to be ready
+2025-10-05 00:28:02 - MySQL readiness check complete
+2025-10-05 00:28:02 - smoke_check finished
+2025-10-05 00:28:02 - smoke_check started
+2025-10-05 00:28:02 - oxmysql state started
+2025-10-05 00:28:02 - qb-core state missing
+2025-10-05 00:28:02 - pt-fisco state started
+2025-10-05 00:28:02 - pt-shops state started
+2025-10-05 00:28:02 - thread started
+2025-10-05 00:28:02 - waiting up to 15s for MySQL to be ready
+2025-10-05 00:28:02 - MySQL readiness check complete
+2025-10-05 00:28:02 - smoke_check finished
+2025-10-05 00:30:28 - smoke_check started
+2025-10-05 00:30:28 - oxmysql state started
+2025-10-05 00:30:28 - qb-core state missing
+2025-10-05 00:30:28 - pt-fisco state started
+2025-10-05 00:30:28 - pt-shops state started
+2025-10-05 00:30:28 - thread started
+2025-10-05 00:30:28 - waiting up to 15s for MySQL to be ready
+2025-10-05 00:30:28 - MySQL readiness check complete
+2025-10-05 00:30:28 - smoke_check finished
+2025-10-05 00:30:28 - smoke_check started
+2025-10-05 00:30:28 - oxmysql state started
+2025-10-05 00:30:28 - qb-core state missing
+2025-10-05 00:30:28 - pt-fisco state started
+2025-10-05 00:30:28 - pt-shops state started
+2025-10-05 00:30:28 - thread started
+2025-10-05 00:30:28 - waiting up to 15s for MySQL to be ready
+2025-10-05 00:30:28 - MySQL readiness check complete
+2025-10-05 00:30:28 - smoke_check finished
+2025-10-05 00:39:42 - smoke_check started
+2025-10-05 00:39:42 - oxmysql state started
+2025-10-05 00:39:42 - qb-core state missing
+2025-10-05 00:39:42 - pt-fisco state started
+2025-10-05 00:39:42 - pt-shops state started
+2025-10-05 00:39:42 - thread started
+2025-10-05 00:39:42 - waiting up to 15s for MySQL to be ready
+2025-10-05 00:39:42 - MySQL readiness check complete
+2025-10-05 00:39:42 - smoke_check finished
+2025-10-05 00:39:42 - smoke_check started
+2025-10-05 00:39:42 - oxmysql state started
+2025-10-05 00:39:42 - qb-core state missing
+2025-10-05 00:39:42 - pt-fisco state started
+2025-10-05 00:39:42 - pt-shops state started
+2025-10-05 00:39:42 - thread started
+2025-10-05 00:39:42 - waiting up to 15s for MySQL to be ready
+2025-10-05 00:39:42 - MySQL readiness check complete
+2025-10-05 00:39:42 - smoke_check finished
+2025-10-05 01:19:05 - smoke_check started
+2025-10-05 01:19:05 - oxmysql state started
+2025-10-05 01:19:05 - qb-core state started
+2025-10-05 01:19:05 - pt-fisco state started
+2025-10-05 01:19:05 - pt-shops state started
+2025-10-05 01:19:05 - thread started
+2025-10-05 01:19:05 - waiting up to 15s for MySQL to be ready
+2025-10-05 01:19:05 - MySQL readiness check complete
+2025-10-05 01:19:05 - smoke_check finished
+2025-10-05 01:19:05 - smoke_check started
+2025-10-05 01:19:05 - oxmysql state started
+2025-10-05 01:19:05 - qb-core state started
+2025-10-05 01:19:05 - pt-fisco state started
+2025-10-05 01:19:05 - pt-shops state started
+2025-10-05 01:19:05 - thread started
+2025-10-05 01:19:05 - waiting up to 15s for MySQL to be ready
+2025-10-05 01:19:05 - MySQL readiness check complete
+2025-10-05 01:19:05 - smoke_check finished
+2025-10-05 01:28:16 - smoke_check started
+2025-10-05 01:28:16 - oxmysql state started
+2025-10-05 01:28:16 - qb-core state started
+2025-10-05 01:28:16 - pt-fisco state started
+2025-10-05 01:28:16 - pt-shops state started
+2025-10-05 01:28:16 - thread started
+2025-10-05 01:28:16 - waiting up to 15s for MySQL to be ready
+2025-10-05 01:28:16 - MySQL readiness check complete
+2025-10-05 01:28:16 - smoke_check finished
+2025-10-05 01:28:16 - smoke_check started
+2025-10-05 01:28:16 - oxmysql state started
+2025-10-05 01:28:16 - qb-core state started
+2025-10-05 01:28:16 - pt-fisco state started
+2025-10-05 01:28:16 - pt-shops state started
+2025-10-05 01:28:16 - thread started
+2025-10-05 01:28:16 - waiting up to 15s for MySQL to be ready
+2025-10-05 01:28:16 - MySQL readiness check complete
+2025-10-05 01:28:16 - smoke_check finished
+2025-10-05 01:46:14 - smoke_check started
+2025-10-05 01:46:14 - oxmysql state started
+2025-10-05 01:46:14 - qb-core state started
+2025-10-05 01:46:14 - pt-fisco state started
+2025-10-05 01:46:14 - pt-shops state started
+2025-10-05 01:46:14 - thread started
+2025-10-05 01:46:14 - waiting up to 15s for MySQL to be ready
+2025-10-05 01:46:14 - MySQL readiness check complete
+2025-10-05 01:46:14 - smoke_check finished
+2025-10-05 01:46:14 - smoke_check started
+2025-10-05 01:46:14 - oxmysql state started
+2025-10-05 01:46:14 - qb-core state started
+2025-10-05 01:46:14 - pt-fisco state started
+2025-10-05 01:46:14 - pt-shops state started
+2025-10-05 01:46:14 - thread started
+2025-10-05 01:46:14 - waiting up to 15s for MySQL to be ready
+2025-10-05 01:46:14 - MySQL readiness check complete
+2025-10-05 01:46:14 - smoke_check finished
+2025-10-05 01:56:06 - smoke_check started
+2025-10-05 01:56:06 - oxmysql state started
+2025-10-05 01:56:06 - qb-core state started
+2025-10-05 01:56:06 - pt-fisco state started
+2025-10-05 01:56:06 - pt-shops state started
+2025-10-05 01:56:06 - thread started
+2025-10-05 01:56:06 - waiting up to 15s for MySQL to be ready
+2025-10-05 01:56:06 - MySQL readiness check complete
+2025-10-05 01:56:06 - smoke_check finished
+2025-10-05 01:56:06 - smoke_check started
+2025-10-05 01:56:06 - oxmysql state started
+2025-10-05 01:56:06 - qb-core state started
+2025-10-05 01:56:06 - pt-fisco state started
+2025-10-05 01:56:06 - pt-shops state started
+2025-10-05 01:56:06 - thread started
+2025-10-05 01:56:06 - waiting up to 15s for MySQL to be ready
+2025-10-05 01:56:06 - MySQL readiness check complete
+2025-10-05 01:56:06 - smoke_check finished
+2025-10-05 02:02:25 - smoke_check started
+2025-10-05 02:02:25 - oxmysql state started
+2025-10-05 02:02:25 - qb-core state started
+2025-10-05 02:02:25 - pt-fisco state started
+2025-10-05 02:02:25 - pt-shops state started
+2025-10-05 02:02:25 - thread started
+2025-10-05 02:02:25 - waiting up to 15s for MySQL to be ready
+2025-10-05 02:02:25 - MySQL readiness check complete
+2025-10-05 02:02:25 - smoke_check finished
+2025-10-05 02:02:25 - smoke_check started
+2025-10-05 02:02:25 - oxmysql state started
+2025-10-05 02:02:25 - qb-core state started
+2025-10-05 02:02:25 - pt-fisco state started
+2025-10-05 02:02:25 - pt-shops state started
+2025-10-05 02:02:25 - thread started
+2025-10-05 02:02:25 - waiting up to 15s for MySQL to be ready
+2025-10-05 02:02:25 - MySQL readiness check complete
+2025-10-05 02:02:25 - smoke_check finished
+2025-10-05 08:32:26 - smoke_check started
+2025-10-05 08:32:26 - oxmysql state started
+2025-10-05 08:32:26 - qb-core state started
+2025-10-05 08:32:26 - pt-fisco state started
+2025-10-05 08:32:26 - pt-shops state started
+2025-10-05 08:32:26 - thread started
+2025-10-05 08:32:26 - waiting up to 15s for MySQL to be ready
+2025-10-05 08:32:26 - MySQL readiness check complete
+2025-10-05 08:32:26 - smoke_check finished
+2025-10-05 08:32:26 - smoke_check started
+2025-10-05 08:32:26 - oxmysql state started
+2025-10-05 08:32:26 - qb-core state started
+2025-10-05 08:32:26 - pt-fisco state started
+2025-10-05 08:32:26 - pt-shops state started
+2025-10-05 08:32:26 - thread started
+2025-10-05 08:32:26 - waiting up to 15s for MySQL to be ready
+2025-10-05 08:32:26 - MySQL readiness check complete
+2025-10-05 08:32:26 - smoke_check finished
+2025-10-05 10:04:05 - smoke_check started
+2025-10-05 10:04:05 - oxmysql state started
+2025-10-05 10:04:05 - qb-core state started
+2025-10-05 10:04:05 - pt-fisco state started
+2025-10-05 10:04:05 - pt-shops state started
+2025-10-05 10:04:05 - thread started
+2025-10-05 10:04:05 - waiting up to 15s for MySQL to be ready
+2025-10-05 10:04:05 - MySQL readiness check complete
+2025-10-05 10:04:05 - smoke_check finished
+2025-10-05 10:04:05 - smoke_check started
+2025-10-05 10:04:05 - oxmysql state started
+2025-10-05 10:04:05 - qb-core state started
+2025-10-05 10:04:05 - pt-fisco state started
+2025-10-05 10:04:05 - pt-shops state started
+2025-10-05 10:04:05 - thread started
+2025-10-05 10:04:05 - waiting up to 15s for MySQL to be ready
+2025-10-05 10:04:05 - MySQL readiness check complete
+2025-10-05 10:04:05 - smoke_check finished
+2025-10-05 11:05:37 - smoke_check started
+2025-10-05 11:05:37 - oxmysql state started
+2025-10-05 11:05:37 - qb-core state started
+2025-10-05 11:05:37 - pt-fisco state started
+2025-10-05 11:05:37 - pt-shops state started
+2025-10-05 11:05:37 - thread started
+2025-10-05 11:05:37 - waiting up to 15s for MySQL to be ready
+2025-10-05 11:05:37 - MySQL readiness check complete
+2025-10-05 11:05:37 - smoke_check finished
+2025-10-05 11:05:37 - smoke_check started
+2025-10-05 11:05:37 - oxmysql state started
+2025-10-05 11:05:37 - qb-core state started
+2025-10-05 11:05:37 - pt-fisco state started
+2025-10-05 11:05:37 - pt-shops state started
+2025-10-05 11:05:37 - thread started
+2025-10-05 11:05:37 - waiting up to 15s for MySQL to be ready
+2025-10-05 11:05:37 - MySQL readiness check complete
+2025-10-05 11:05:37 - smoke_check finished
+2025-10-05 11:12:19 - smoke_check started
+2025-10-05 11:12:19 - oxmysql state started
+2025-10-05 11:12:19 - qb-core state started
+2025-10-05 11:12:19 - pt-fisco state started
+2025-10-05 11:12:19 - pt-shops state started
+2025-10-05 11:12:19 - thread started
+2025-10-05 11:12:19 - waiting up to 15s for MySQL to be ready
+2025-10-05 11:12:19 - MySQL readiness check complete
+2025-10-05 11:12:19 - smoke_check finished
+2025-10-05 11:12:19 - smoke_check started
+2025-10-05 11:12:19 - oxmysql state started
+2025-10-05 11:12:19 - qb-core state started
+2025-10-05 11:12:19 - pt-fisco state started
+2025-10-05 11:12:19 - pt-shops state started
+2025-10-05 11:12:19 - thread started
+2025-10-05 11:12:19 - waiting up to 15s for MySQL to be ready
+2025-10-05 11:12:19 - MySQL readiness check complete
+2025-10-05 11:12:19 - smoke_check finished
+2025-10-05 11:49:06 - smoke_check started
+2025-10-05 11:49:06 - oxmysql state started
+2025-10-05 11:49:06 - qb-core state started
+2025-10-05 11:49:06 - pt-fisco state started
+2025-10-05 11:49:06 - pt-shops state started
+2025-10-05 11:49:06 - thread started
+2025-10-05 11:49:06 - waiting up to 15s for MySQL to be ready
+2025-10-05 11:49:06 - MySQL readiness check complete
+2025-10-05 11:49:06 - smoke_check finished
+2025-10-05 11:49:06 - smoke_check started
+2025-10-05 11:49:06 - oxmysql state started
+2025-10-05 11:49:06 - qb-core state started
+2025-10-05 11:49:06 - pt-fisco state started
+2025-10-05 11:49:06 - pt-shops state started
+2025-10-05 11:49:06 - thread started
+2025-10-05 11:49:06 - waiting up to 15s for MySQL to be ready
+2025-10-05 11:49:06 - MySQL readiness check complete
+2025-10-05 11:49:06 - smoke_check finished

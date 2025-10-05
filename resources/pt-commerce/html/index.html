@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>PT Commerce</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="root">
+    <div id="shop" class="panel hidden">
+      <div class="header">PT Commerce</div>
+      <div class="content">
+        <div class="filters">
+          <button class="flt" data-cat="all">Tudo</button>
+          <button class="flt" data-cat="furniture">Mobília</button>
+          <button class="flt" data-cat="food">Comida</button>
+          <button class="flt" data-cat="tools">Ferramentas</button>
+          <button class="flt" data-cat="electronics">Eletrónica</button>
+        </div>
+        <div class="catalog" id="catalog"></div>
+        <div class="cart">
+          <div class="cart-title">Carrinho</div>
+          <div id="cart-list"></div>
+          <div class="delivery">
+            <label><input type="radio" name="delivery" value="meet" checked/> Entrega em mão (se online)</label>
+            <label><input type="radio" name="delivery" value="mailbox"/> Entregar na minha caixa</label>
+          </div>
+          <div class="total">Total: <span id="total">0</span>€</div>
+          <div class="actions">
+            <button id="checkout">Finalizar</button>
+            <button id="shop-close">Fechar</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="ctt" class="panel hidden">
+      <div class="header">CTT - Entregas</div>
+      <div class="content">
+        <div id="orders"></div>
+        <div class="actions">
+          <button id="ctt-close">Fechar</button>
+        </div>
+      </div>
+    </div>
+    <!-- PIN Modal -->
+    <div id="pin-modal" class="modal hidden">
+      <div class="modal-box">
+        <div class="modal-title">Assinatura do Cliente</div>
+        <div class="modal-content">
+          <p>Introduza o PIN fornecido pelo cliente para confirmar a entrega.</p>
+          <input id="pin-input" type="number" min="0" max="9999" placeholder="PIN" />
+        </div>
+        <div class="modal-actions">
+          <button id="pin-confirm">Confirmar</button>
+          <button id="pin-cancel">Cancelar</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,92 @@
+{
+  "shops": [
+    {
+      "id": "mercearia_centro",
+      "label": "Mercearia Central",
+      "blip": { "sprite": 59, "color": 2 },
+      "coords": { "x": -47.52, "y": -1758.52, "z": 29.42 },
+      "radius": 2.0,
+      "items": [
+        { "name": "water", "label": "Água", "price": 5, "iva_tipo": "alimentacao" },
+        { "name": "bread", "label": "Pão", "price": 7, "iva_tipo": "alimentacao" },
+        { "name": "phone", "label": "Telemóvel", "price": 350, "iva_tipo": "vendas" }
+      ]
+    },
+    {
+      "id": "mercearia_norte",
+      "label": "Mercearia do Norte",
+      "blip": { "sprite": 59, "color": 25 },
+      "coords": { "x": 373.87, "y": 325.89, "z": 103.57 },
+      "radius": 2.0,
+      "items": [
+        { "name": "water", "label": "Água", "price": 6, "iva_tipo": "alimentacao" },
+        { "name": "bread", "label": "Pão", "price": 8, "iva_tipo": "alimentacao" }
+      ]
+    },
+    {
+      "id": "mercearia_sul",
+      "label": "Mercearia do Sul",
+      "blip": { "sprite": 59, "color": 46 },
+      "coords": { "x": -707.41, "y": -914.59, "z": 19.22 },
+      "radius": 2.0,
+      "items": [
+        { "name": "water", "label": "Água", "price": 5, "iva_tipo": "alimentacao" },
+        { "name": "bread", "label": "Pão", "price": 7, "iva_tipo": "alimentacao" }
+      ]
+    },
+    {
+      "id": "posto_1",
+      "label": "Posto de Combustível (LS)",
+      "blip": { "sprite": 361, "color": 1 },
+      "coords": { "x": 265.64, "y": -1261.30, "z": 29.29 },
+      "radius": 2.0,
+      "items": [
+        { "name": "water", "label": "Água", "price": 5, "iva_tipo": "alimentacao" },
+        { "name": "bread", "label": "Pão", "price": 7, "iva_tipo": "alimentacao" }
+      ]
+    },
+    {
+      "id": "posto_2",
+      "label": "Posto de Combustível (Sandy)",
+      "blip": { "sprite": 361, "color": 1 },
+      "coords": { "x": 2001.46, "y": 3775.61, "z": 32.18 },
+      "radius": 2.0,
+      "items": [
+        { "name": "water", "label": "Água", "price": 6, "iva_tipo": "alimentacao" },
+        { "name": "bread", "label": "Pão", "price": 8, "iva_tipo": "alimentacao" }
+      ]
+    },
+    {
+      "id": "eletronica",
+      "label": "Electrónica & Gadgets",
+      "blip": { "sprite": 606, "color": 3 },
+      "coords": { "x": -658.56, "y": -857.89, "z": 24.49 },
+      "radius": 2.0,
+      "items": [
+        { "name": "phone", "label": "Telemóvel", "price": 320, "iva_tipo": "vendas" }
+      ]
+    },
+    {
+      "id": "roupas_centro",
+      "label": "Loja de Roupa (Centro)",
+      "blip": { "sprite": 73, "color": 2 },
+      "coords": { "x": 425.23, "y": -806.52, "z": 29.49 },
+      "radius": 2.5,
+      "items": [
+        { "name": "water", "label": "Água", "price": 5, "iva_tipo": "alimentacao" },
+        { "name": "phone", "label": "Telemóvel", "price": 340, "iva_tipo": "vendas" }
+      ]
+    },
+    {
+      "id": "quiosque_praia",
+      "label": "Quiosque da Praia",
+      "blip": { "sprite": 52, "color": 46 },
+      "coords": { "x": -1193.76, "y": -1485.41, "z": 4.38 },
+      "radius": 2.0,
+      "items": [
+        { "name": "water", "label": "Água", "price": 7, "iva_tipo": "alimentacao" },
+        { "name": "bread", "label": "Pão", "price": 9, "iva_tipo": "alimentacao" }
+      ]
+    }
+  ]
+}
