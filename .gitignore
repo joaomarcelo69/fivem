@@ -7,3 +7,5 @@ cache/
 *.logresources/oxmysql_disabled
 resources/qb-inventory_disabled
 resources/qb-phone_disabled
+fxserver/alpine/
+Binários FXServer muito grandes (100MB+)
