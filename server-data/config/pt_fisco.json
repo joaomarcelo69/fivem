@@ -1,0 +1,21 @@
+{
+  "Regiao": "continente",
+  "IVACategorias": {
+    "continente": { "normal": 0.23, "interm": 0.13, "reduzido": 0.06 },
+    "madeira": { "normal": 0.22, "interm": 0.12, "reduzido": 0.05 },
+    "acores": { "normal": 0.16, "interm": 0.09, "reduzido": 0.04 }
+  },
+  "IVAMap": {
+    "vendas": "normal",
+    "alimentacao": "reduzido",
+    "restauracao": "interm",
+    "combustivel": "normal"
+  },
+  "IRS": {
+    "trabalho": 0.12,
+    "servicos": 0.15,
+    "vendas": 0.00,
+    "multas": 0.00
+  },
+  "Enable": { "IVA": true, "IRS": true, "Persistencia": true }
+}

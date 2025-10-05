@@ -1,0 +1,7 @@
+server-data/secret.cfg
+.encoded_backup_once/
+dist-resources/
+fxserver/resources_custom/
+fxserver/cache/
+cache/
+*.log

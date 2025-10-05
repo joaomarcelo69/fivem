@@ -1,0 +1,38 @@
+{
+  "pay_interval_minutes": 20,
+  "jobs": {
+    "police": {
+      "label": "PSP",
+      "grades": [
+        { "name": "Recruta", "salary": 1200 },
+        { "name": "Agente", "salary": 1600 },
+        { "name": "Chefe", "salary": 2200 },
+        { "name": "Comissário", "salary": 3000 }
+      ]
+    },
+    "ambulance": {
+      "label": "INEM",
+      "grades": [
+        { "name": "Estagiário", "salary": 1000 },
+        { "name": "Técnico", "salary": 1400 },
+        { "name": "Paramédico", "salary": 2000 },
+        { "name": "Coordenador", "salary": 2600 }
+      ]
+    },
+    "mechanic": {
+      "label": "Mecânico",
+      "grades": [
+        { "name": "Aprendiz", "salary": 900 },
+        { "name": "Mecânico", "salary": 1300 },
+        { "name": "Chefe de Equipa", "salary": 1800 }
+      ]
+    },
+    "taxi": {
+      "label": "Táxi",
+      "grades": [
+        { "name": "Motorista", "salary": 900 },
+        { "name": "Sénior", "salary": 1200 }
+      ]
+    }
+  }
+}

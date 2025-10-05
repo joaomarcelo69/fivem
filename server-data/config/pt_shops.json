@@ -1,0 +1,122 @@
+{
+  "shops": [
+    {
+      "id": "mercearia_lisboa",
+      "label": "Mercearia Lisboa",
+      "blip": { "sprite": 59, "color": 2 },
+      "coords": { "x": -47.52, "y": -1758.52, "z": 29.42 },
+      "dock": { "x": -50.0, "y": -1760.0, "z": 29.0 },
+      "radius": 2.0,
+      "type": "convenience",
+      "items": [
+        { "name": "water", "label": "Água", "price": 5, "iva": "alimentacao" },
+        { "name": "bread", "label": "Pão", "price": 7, "iva": "alimentacao" },
+        { "name": "phone", "label": "Telemóvel", "price": 350, "iva": "vendas" }
+      ]
+    },
+    {
+      "id": "mercearia_porto",
+      "label": "Mercearia Porto",
+      "blip": { "sprite": 59, "color": 2 },
+      "coords": { "x": -1487.36, "y": -379.55, "z": 40.16 },
+      "dock": { "x": -1490.0, "y": -382.0, "z": 40.0 },
+      "radius": 2.0,
+      "type": "convenience",
+      "items": [
+        { "name": "water", "label": "Água", "price": 6, "iva": "alimentacao" },
+        { "name": "bread", "label": "Pão", "price": 8, "iva": "alimentacao" }
+      ]
+    },
+    {
+      "id": "mercearia_faro",
+      "label": "Mercearia Faro",
+      "blip": { "sprite": 59, "color": 2 },
+      "coords": { "x": 1135.81, "y": -982.32, "z": 46.41 },
+      "dock": { "x": 1133.0, "y": -985.0, "z": 46.0 },
+      "radius": 2.0,
+      "type": "convenience",
+      "items": [
+        { "name": "water", "label": "Água", "price": 5, "iva": "alimentacao" },
+        { "name": "bread", "label": "Pão", "price": 7, "iva": "alimentacao" }
+      ]
+    },
+    {
+      "id": "eletronica_lisboa",
+      "label": "Electrónica Lisboa",
+      "blip": { "sprite": 606, "color": 3 },
+      "coords": { "x": -658.56, "y": -857.89, "z": 24.49 },
+      "dock": { "x": -661.0, "y": -860.0, "z": 24.0 },
+      "radius": 2.0,
+      "type": "electronics",
+      "items": [
+        { "name": "phone", "label": "Telemóvel", "price": 350, "iva": "vendas" },
+        { "name": "radio", "label": "Rádio", "price": 120, "iva": "vendas" }
+      ]
+    },
+    {
+      "id": "roupa_lisboa",
+      "label": "Loja de Roupa Lisboa",
+      "blip": { "sprite": 73, "color": 7 },
+      "coords": { "x": 75.35, "y": -1392.98, "z": 29.38 },
+      "dock": { "x": 73.0, "y": -1395.0, "z": 29.0 },
+      "radius": 2.0,
+      "type": "clothing",
+      "items": [
+        { "name": "tshirt", "label": "T-Shirt", "price": 30, "iva": "vendas" },
+        { "name": "jeans", "label": "Jeans", "price": 50, "iva": "vendas" }
+      ]
+    },
+    {
+      "id": "concessionario_lisboa",
+      "label": "Concessionário Lisboa",
+      "blip": { "sprite": 225, "color": 4 },
+      "coords": { "x": -33.78, "y": -1102.21, "z": 26.42 },
+      "dock": { "x": -36.0, "y": -1105.0, "z": 26.0 },
+      "radius": 3.0,
+      "type": "vehicle_dealer",
+      "items": [
+        { "name": "car_basic", "label": "Carro (básico)", "price": 5000, "iva": "vendas" },
+        { "name": "car_premium", "label": "Carro (premium)", "price": 25000, "iva": "vendas" }
+      ]
+    },
+    {
+      "id": "posto_lisboa",
+      "label": "Posto de Combustível Lisboa",
+      "blip": { "sprite": 361, "color": 1 },
+      "coords": { "x": 265.64, "y": -1261.30, "z": 29.29 },
+      "dock": { "x": 263.0, "y": -1264.0, "z": 29.0 },
+      "radius": 2.0,
+      "type": "fuel",
+      "items": [
+        { "name": "water", "label": "Água", "price": 5, "iva": "alimentacao" },
+        { "name": "bread", "label": "Pão", "price": 7, "iva": "alimentacao" }
+      ]
+    },
+    {
+      "id": "posto_porto",
+      "label": "Posto de Combustível Porto",
+      "blip": { "sprite": 361, "color": 1 },
+      "coords": { "x": -1800.13, "y": 803.54, "z": 138.65 },
+      "dock": { "x": -1802.0, "y": 801.0, "z": 138.0 },
+      "radius": 2.0,
+      "type": "fuel",
+      "items": [
+        { "name": "water", "label": "Água", "price": 6, "iva": "alimentacao" },
+        { "name": "bread", "label": "Pão", "price": 8, "iva": "alimentacao" }
+      ]
+    },
+    {
+      "id": "posto_faro",
+      "label": "Posto de Combustível Faro",
+      "blip": { "sprite": 361, "color": 1 },
+      "coords": { "x": 1208.95, "y": -1402.56, "z": 35.22 },
+      "dock": { "x": 1206.0, "y": -1405.0, "z": 35.0 },
+      "radius": 2.0,
+      "type": "fuel",
+      "items": [
+        { "name": "water", "label": "Água", "price": 5, "iva": "alimentacao" },
+        { "name": "bread", "label": "Pão", "price": 7, "iva": "alimentacao" }
+      ]
+    }
+  ]
+}

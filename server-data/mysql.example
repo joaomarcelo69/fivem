@@ -1,0 +1,6 @@
+# Exemplo de connection string para oxmysql
+# Substitua user:password, host e database
+# mysql://user:password@127.0.0.1:3306/qbcore
+
+# Para usar, adicione ao server.cfg:
+# set mysql_connection_string "mysql://user:password@127.0.0.1:3306/qbcore"

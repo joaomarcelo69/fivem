@@ -1,0 +1,11 @@
+{
+  "scales": [
+    { "id": "excesso_ate_20", "label": "Excesso de velocidade até 20 km/h", "min": 60, "max": 120 },
+    { "id": "excesso_21_40", "label": "Excesso de velocidade 21–40 km/h", "min": 120, "max": 300 },
+    { "id": "excesso_41_60", "label": "Excesso de velocidade 41–60 km/h", "min": 300, "max": 600 },
+    { "id": "alcool_1", "label": "Álcool – taxa baixa", "min": 250, "max": 500 },
+    { "id": "alcool_2", "label": "Álcool – taxa elevada", "min": 500, "max": 1200 },
+    { "id": "estacionamento", "label": "Estacionamento indevido", "min": 60, "max": 120 },
+    { "id": "desobediencia", "label": "Desobediência à autoridade", "min": 200, "max": 800 }
+  ]
+}

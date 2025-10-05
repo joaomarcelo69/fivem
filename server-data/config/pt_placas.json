@@ -1,0 +1,17 @@
+{
+  "current_format": "AA-00-AA",
+  "formats": [
+    "AA-00-AA",
+    "00-AA-00",
+    "00-00-AA"
+  ],
+  "letters": "ABCDEFGHJKLMNPQRSTUVWXZ",
+  "separator": "-",
+  "reserved": ["GNR", "PSP", "PJ", "AMB", "INEM"],
+  "blacklist": ["ASS", "FCK", "GAY", "KKK"],
+  "region_prefix": {
+    "lisboa": ["LX", "LS"],
+    "porto": ["PR", "PT"],
+    "faro": ["FR"]
+  }
+}

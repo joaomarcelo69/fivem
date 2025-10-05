@@ -1,0 +1,69 @@
+{
+  "cities": [
+    {
+      "id": "lisboa",
+      "label": "Lisboa",
+      "spawn": { "x": -1034.6, "y": -2738.6, "z": 20.2, "heading": 35.0 },
+      "police_station": { "x": 440.7, "y": -982.1, "z": 30.6 },
+      "hospital": { "x": 295.8, "y": -1446.4, "z": 29.5 },
+      "mechanic": { "x": -211.0, "y": -1324.9, "z": 31.3 },
+      "shops": [
+        { "id": "Lisboa_Shop_1", "x": 373.9, "y": 325.8, "z": 103.5 },
+        { "id": "Lisboa_24_7_1", "x": 1960.5, "y": 3741.8, "z": 32.3 },
+        { "id": "Lisboa_Market_1", "x": -712.1, "y": -919.4, "z": 19.2 },
+        { "id": "Lisboa_Clothes_1", "x": -1195.5, "y": -772.4, "z": 17.3 }
+      ],
+      "gas_stations": [
+        { "x": 49.4, "y": 2778.7, "z": 58.0 },
+        { "x": 265.6, "y": 2603.1, "z": 44.9 }
+      ],
+      "points_of_interest": [
+        { "id": "Lisboa_Downtown", "x": -800.5, "y": -1234.1, "z": 14.5 },
+        { "id": "Lisboa_Beach", "x": -1500.2, "y": -1000.7, "z": 12.9 }
+      ]
+    },
+    {
+      "id": "porto",
+      "label": "Porto",
+      "spawn": { "x": 100.3, "y": -1000.4, "z": 28.3, "heading": 180.0 },
+      "police_station": { "x": -1096.8, "y": -831.3, "z": 19.3 },
+      "hospital": { "x": 1838.5, "y": 3679.4, "z": 34.3 },
+      "mechanic": { "x": 129.3, "y": -307.9, "z": 44.0 },
+      "shops": [
+        { "id": "Porto_Shop_1", "x": -707.2, "y": -914.2, "z": 19.2 },
+        { "id": "Porto_Market_1", "x": -560.3, "y": -1200.7, "z": 17.4 }
+      ],
+      "gas_stations": [
+        { "x": 258.1, "y": 258.2, "z": 108.7 },
+        { "x": -150.2, "y": 250.9, "z": 95.1 }
+      ],
+      "points_of_interest": [
+        { "id": "Porto_Riverside", "x": -1300.0, "y": -800.5, "z": 18.0 }
+      ]
+    },
+    {
+      "id": "coimbra",
+      "label": "Coimbra",
+      "spawn": { "x": 450.0, "y": -600.0, "z": 28.0, "heading": 90.0 },
+      "police_station": { "x": 420.0, "y": -560.0, "z": 28.0 },
+      "hospital": { "x": 400.0, "y": -520.0, "z": 28.0 },
+      "mechanic": { "x": 410.0, "y": -540.0, "z": 28.0 },
+      "shops": [
+        { "id": "Coimbra_Shop_1", "x": 410.5, "y": -520.2, "z": 28.0 }
+      ],
+      "gas_stations": []
+    },
+    {
+      "id": "faro",
+      "label": "Faro",
+      "spawn": { "x": -240.0, "y": -980.0, "z": 30.0, "heading": 270.0 },
+      "police_station": { "x": -220.0, "y": -960.0, "z": 30.0 },
+      "hospital": { "x": -200.0, "y": -940.0, "z": 30.0 },
+      "mechanic": { "x": -210.0, "y": -950.0, "z": 30.0 },
+      "shops": [
+        { "id": "Faro_Shop_1", "x": -230.5, "y": -945.2, "z": 30.0 }
+      ],
+      "gas_stations": []
+    }
+  ]
+}
